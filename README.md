@@ -1,1 +1,1 @@
-# SSL_Contreras_Leonel
+"Este es mi primer repositorio del curso Sintaxis y Semántica de los Lenguajes"
